@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+#response {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: larger;
+}

@@ -1,0 +1,32 @@
+#AIRESPONSE {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: chartreuse;
+    background-color: black;
+    width: fit-content;
+}
+
+#ASSISTANT{
+    display: flex;
+    justify-content: left;
+    align-items: start;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: red;
+    width: fit-content;
+    padding: 8px;
+}
+
+.AIresponse{
+    display: flex;
+    flex-direction: column;
+    border-style: dashed;
+    border-radius: 8px;
+    padding:8px;
+    margin:8px;
+    background-color: black;
+    color:rgb(49, 49, 255);
+}
